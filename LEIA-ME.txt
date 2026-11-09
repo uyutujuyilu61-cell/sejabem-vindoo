@@ -1,0 +1,21 @@
+SITE INSTITUCIONAL — 38.463.482 ALMIR MACHADO SCUTILAKER
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: informações sobre a empresa
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- style.css: estilos personalizados
+- assets/: imagens fornecidas
+
+Como publicar:
+1. Envie todos os arquivos e a pasta assets para a raiz (public_html) da hospedagem.
+2. Mantenha os nomes e a estrutura de pastas.
+3. Abra index.html ou acesse o domínio configurado.
+4. Bootstrap, Bootstrap Icons e fontes Google são carregados por CDN; é necessária conexão com a internet.
+
+ATENÇÃO:
+- Confirme os dados cadastrais, endereço, contatos, disponibilidade e escopo real dos serviços antes de publicar.
+- A empresa foi apresentada como independente, sem vínculo institucional com os Correios.
+- Política de Privacidade e Termos de Uso são modelos iniciais; revise conforme ferramentas de analytics/anúncios, formulários, cookies e operações efetivamente utilizadas. Recomenda-se revisão jurídica/LGPD.
+- O site não contém formulário de coleta; os botões direcionam para WhatsApp, telefone e e-mail.
